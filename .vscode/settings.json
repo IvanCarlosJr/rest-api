@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/a54fa6e8-8895-43f7-bddd-86e251a496ee/resourceGroups/Blip/providers/Microsoft.Web/sites/desafioblip",
+  "appService.deploySubpath": "."
+}
