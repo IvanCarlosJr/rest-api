@@ -20,6 +20,7 @@ async function fetchGithub() {
     const repoInfo = repos.map(repo => ({
       id: repo.id,
       name: repo.name,
+      fullName: repo.full_name,
       description: repo.description,
       htmlUrl: repo.html_url,
       createdAt: repo.created_at
